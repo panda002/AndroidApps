@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="radio_male">Male</string>
+    <string name="radio_female">Female</string>
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pizza Store</string>
+    <string name="pick_toppings">Choose a Topping</string>
+</resources>
