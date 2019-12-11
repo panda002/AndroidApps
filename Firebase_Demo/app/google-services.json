@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "713861488839",
+    "firebase_url": "https://firecase-app-fef55.firebaseio.com",
+    "project_id": "firecase-app-fef55",
+    "storage_bucket": "firecase-app-fef55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713861488839:android:a8f095965879108f37dee2",
+        "android_client_info": {
+          "package_name": "com.ownproj.firebase_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713861488839-mrl2c3ddtfqu0pvar5nnlm4q6af4nqre.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGL30-a-ScUmb4i5q-WnM4SMM3H0iItFU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713861488839-mrl2c3ddtfqu0pvar5nnlm4q6af4nqre.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
